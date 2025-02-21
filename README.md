@@ -1,4 +1,5 @@
-
+Add your .env File
+ 
 DATABASE_URL=
 DIRECT_URL=
 
