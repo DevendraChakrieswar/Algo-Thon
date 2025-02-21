@@ -1,5 +1,5 @@
 Add your .env File
- 
+``` 
 DATABASE_URL=
 DIRECT_URL=
 
@@ -15,4 +15,5 @@ GEMINI_API_KEY=
 RESEND_API_KEY=
 
 ARCJET_KEY=
+
 ```
